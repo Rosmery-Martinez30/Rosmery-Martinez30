@@ -1,12 +1,12 @@
 <div align="center">
 
-# ✨ Hello, soy Rosmery Martínez ✨
+# ✨ Hello, i am Rosmery Martínez ✨
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Software+Development+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%B8;Creating+Digital+Magic+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### 🌸 Apasionada por crear soluciones digitales elegantes y funcionales
+### 🌸 Passionate about creating elegant and functional digital solutions
 
 </div>
 
