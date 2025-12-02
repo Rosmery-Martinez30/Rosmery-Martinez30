@@ -84,15 +84,19 @@ const rosmery = {
 <img src="https://skillicons.dev/icons?i=nestjs" width="48" height="48" alt="NestJS" />
 <br>NestJS
 </td>
+<td align="center" width="100">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" />
+<br>Visual Studio
+</td>
 </tr>
 <tr>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-<br>HTML5
+<br>HTML
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-<br>CSS3
+<br>CSS
 </td>
 <td align="center" width="100">
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
@@ -102,6 +106,10 @@ const rosmery = {
 <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
 <br>MySQL
 </td>
+<td align="center" width="100">
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="48" height="48" alt="SQL Server" />
+<br>SQL Server
+
 <td align="center" width="100">
 <img src="https://techstack-generator.vercel.app/github-icon.svg" width="48" height="48" alt="GitHub" />
 <br>GitHub
