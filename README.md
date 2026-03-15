@@ -10,9 +10,7 @@
 
 </div>
 
-<div align="center">
-  <img width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
-</div>
+<div align="center"> <img alt="Coding Girl" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> </div>
 
 ### 🌸 About Me
 
