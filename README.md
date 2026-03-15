@@ -11,8 +11,7 @@
 </div>
 
 <div align="center">
-  <img alt="Coding Girl" width="400" 
-       src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+  <img width="400" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 </div>
 
 ### 🌸 About Me
@@ -40,7 +39,7 @@ const rosmery = {
 - 🔭 Working on full stack projects
 - 🌱 Learning advanced backend patterns
 - 👯 Open to collaborate on interesting projects
-- 💬 Ask me about React, Node.js, or web development
+- 💬 Ask me about programming and web development
 - ⚡ Fun fact: I love creating beautiful UIs
 
 <br>
